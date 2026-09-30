@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(250, 118, 57)
+}
+.head{
+    color:blue
+}
+#bglime{
+    background-color:lime;
+    font-size:35px;
+}
+#head{
+    color:red
+}
+p{
+    color:honeydew;
+    font-size:30px;
+}
+
+#para{
+    color:green;
+    font-size:15px;
+}
+div{
+    font-size:25px;
+}
